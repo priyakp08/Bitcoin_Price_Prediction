@@ -20,7 +20,7 @@ Model evaluation and performance visualization
 
 **Tech Stack / Libraries**
 
-Python 3.x
+Python 3.12.4
 
 Pandas → Data handling and manipulation
 
